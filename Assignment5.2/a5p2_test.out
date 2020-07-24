@@ -1,0 +1,37 @@
+
+
+Dynamic memory for 0 CNodes freed
+Dynamic memory for 1 PNodes freed
+11  
+cursor : 11 
+Dynamic memory for 1 CNodes freed
+Dynamic memory for 1 PNodes freed
+11  12  13  14  
+cursor : 11 cursor : 12 cursor : 13 cursor : 14 
+Dynamic memory for 4 CNodes freed
+Dynamic memory for 1 PNodes freed
+21  22  23  24  
+cursor : 21 cursor : 22 cursor : 23 cursor : 24 
+Dynamic memory for 0 CNodes freed
+Dynamic memory for 4 CNodes freed
+Dynamic memory for 2 PNodes freed
+11  12  13  14  
+cursor : 11 cursor : 12 cursor : 13 cursor : 14 
+Dynamic memory for 4 CNodes freed
+Dynamic memory for 0 CNodes freed
+Dynamic memory for 2 PNodes freed
+11  12  13  14  21  41  42  
+cursor : 11 cursor : 21 cursor : 41 cursor : 12 cursor : 42 cursor : 13 cursor : 14 
+Dynamic memory for 4 CNodes freed
+Dynamic memory for 1 CNodes freed
+Dynamic memory for 0 CNodes freed
+Dynamic memory for 2 CNodes freed
+Dynamic memory for 4 PNodes freed
+21  22  23  24  31  51  52  
+cursor : 21 cursor : 31 cursor : 51 cursor : 22 cursor : 52 cursor : 23 cursor : 24 
+Dynamic memory for 0 CNodes freed
+Dynamic memory for 4 CNodes freed
+Dynamic memory for 1 CNodes freed
+Dynamic memory for 0 CNodes freed
+Dynamic memory for 2 CNodes freed
+Dynamic memory for 5 PNodes freed

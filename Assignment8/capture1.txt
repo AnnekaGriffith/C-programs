@@ -1,0 +1,58 @@
+Script started on Wed 18 Apr 2018 05:45:04 PM CDT
+[acb217@zeus Assignment8]$ c[Kg++ =[K-Wall -ansi -pand[K[K[Kedantic Assign08.cpp HashTable.cpp HashTable.h
+[acb217@zeus Assignment8]$ .a/[K[K/a.out
+capacity initially: 101
+used initially:     0
+select dictionary (s = small, others = big): s
+loading dictionary . . .
+dictionary loaded in 0 seconds . . .
+capacity post-load: 101
+used post-load:     0
+load-factor:        0
+
+Content of selected hash table segment:
+[10]: 
+[11]: 
+[12]: 
+[13]: 
+[14]: 
+[15]: 
+[16]: 
+[17]: 
+[18]: 
+[19]: 
+[20]: 
+[21]: 
+[22]: 
+[23]: 
+[24]: 
+[25]: 
+[26]: 
+[27]: 
+[28]: 
+[29]: 
+
+Scatter plot of where hash table is used:
+  0 -   9: 
+ 10 -  19: 
+ 20 -  29: 
+ 30 -  39: 
+ 40 -  49: 
+ 50 -  59: 
+ 60 -  69: 
+ 70 -  79: 
+ 80 -  89: 
+ 90 -  99: 
+100 - 100: 
+
+Enter word to spell check (up to 100 characters long): a
+
+a not found in dictionary . . .
+   no near match(es) to suggest :-( 
+
+More word to spell check? (y/n): 0
+******* bye *******
+[acb217@zeus Assignment8]$ exit
+exit
+
+Script done on Wed 18 Apr 2018 05:47:15 PM CDT

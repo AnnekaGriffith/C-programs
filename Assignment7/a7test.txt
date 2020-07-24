@@ -1,0 +1,24 @@
+Running tests for the p_queue
+
+START OF TEST 1:
+Testing all the member functions (25 points).
+A. Testing size and empty for an empty priority queue.
+Test passed.
+
+B. Adding one item to the queue, and then testing
+   empty, size, and front.
+Test passed.
+
+C. Inserting two items (first has higher priority).
+   Then checking that both items come out correctly.
+Test passed.
+
+D. Inserting two items (second has higher priority).
+   Then checking that both items come out correctly.
+Test failed.
+
+Test 1 failed.
+END OF TEST 1.
+
+If you submit this program now, you will have
+0 points out of the 25 points from this test program.
